@@ -14,12 +14,12 @@ h1, h2 {
 
 h1 {
   font-size: 50px;
-  font-weight: normal; /* according to spec. however the sample site shows "bold" */
+  font-weight: normal; /* according to spec. however the priview site on codeacademy shows "bold" */
 }
 
 h2 {
   font-size: 42px;
-  font-weight: 300; /* according to spec. however the sample site shows "bold" */
+  font-weight: 300; /* according to spec. however the priview site on codeacademy shows "bold" */
 }
 
 a {
