@@ -1,0 +1,32 @@
+/* CSS for Excursion landing page */
+
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 21px;
+  text-align: center;
+  color: gray;
+  background-color: black;
+}
+
+h1, h2 {
+  color: white;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.copy {
+  text-align: right;
+}
